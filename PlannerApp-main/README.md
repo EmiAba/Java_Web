@@ -1,0 +1,1 @@
+# PlannerApp is finished completely
