@@ -13,7 +13,7 @@ spring:
         enabled: 'true'
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    password: 
+    password: Valentin14@
     username: root
     url: jdbc:mysql://localhost:3306/bonappetit?allowPublicKeyRetrieval=true&useSSL=false&createDatabaseIfNotExist=true&serverTimezone=UTC
 thymeleaf: # Thymeleaf
